@@ -1,6 +1,8 @@
 import { Component } from '@angular/core';
 
-const someCOde = ["hello", "world", "!", "lorem", 'ipsum', 'dolore sit',]
+const someCOde = ["hello", "world", "!", "lorem", 'ipsum', 'dolore sit',];
+const a = ()=> 2;
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
